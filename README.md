@@ -18,6 +18,4 @@ Engagement strongly influenced open rates
 # Tools Used
 Python (pandas, numpy)
 Excel (pivot tables, charts)
-# Sample Output
-![A-B-testing](visual.png)
 
